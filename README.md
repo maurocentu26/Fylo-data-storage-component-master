@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here for see the repository!](https://github.com/maurocentu26/Fylo-data-storage-component-master)
+- Live Site URL: [Click for see the page!]([https://your-live-site-url.com](https://fylo-data-storage-component-master-kappa-umber.vercel.app/))
 
 ## My process
 
