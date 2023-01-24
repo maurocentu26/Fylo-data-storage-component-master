@@ -57,5 +57,5 @@ Well, as always the Mozilla documentation helped a lot. The <a href="https://dev
 
 ## Author
 
-- Website - [Add your name here](https://github.com/maurocentu26)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/maurocentu26)
+- Website - [Mauro Centurión](https://github.com/maurocentu26)
+- Frontend Mentor - [@maurocentu26](https://www.frontendmentor.io/profile/maurocentu26)
