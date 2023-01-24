@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here for see the repository!](https://github.com/maurocentu26/Fylo-data-storage-component-master)
-- Live Site URL: [Click for see the page!]([https://your-live-site-url.com](https://fylo-data-storage-component-master-kappa-umber.vercel.app/))
+- Live Site URL: [Click for see the page!](https://your-live-site-url.com](https://fylo-data-storage-component-master-kappa-umber.vercel.app)
 
 ## My process
 
